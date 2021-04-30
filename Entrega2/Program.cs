@@ -6,8 +6,8 @@ namespace Entrega2
     {
         static void Main(string[] args)
         {
-             Console.WriteLine("Qual é o ano atual?");
-            int anoatual = int.Parse(Console.ReadLine());
+           //  Console.WriteLine("Qual é o ano atual?");
+            int anoatual = DateTime.Now.Year;
 
              Console.WriteLine("Qual é o ano do seu nascimento?");
             int nascimento = int.Parse(Console.ReadLine());
@@ -16,7 +16,7 @@ namespace Entrega2
             Console.WriteLine("você tem : " + idade+ " anos");
 
             int semanas = idade * 52;
-            Console.WriteLine("sua idade em semanas é de: " + semanas+ " semanas ");
+            Console.WriteLine("e sua idade em semanas é : " + semanas+ " semanas ");
 
         }
     }

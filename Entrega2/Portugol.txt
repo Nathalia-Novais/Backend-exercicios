@@ -6,11 +6,11 @@
             númerico idade
             númerico semanas
 
-            escreva ("Qual é o ano atual?")
-            leia (anoatual)
 
             escreva ("Qual é o ano do seu nascimento?")
             leia (nascimento)
+
+            leia (anoatual)
 
             funçao inicio () {
             
