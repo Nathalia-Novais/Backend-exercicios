@@ -1,0 +1,21 @@
+reajuste salário{
+
+    real salario
+    real aumento
+
+    função inicio () {
+            escreva ("Qual é o seu salário atual?")
+            leia ("salario")
+
+            se ( salario < 500)
+            {
+                aumento = salario + (salario* 0.30);
+                escreva ("Parabéns agora você vai ganhar um salário de: " + aumento)
+            } 
+            senão {
+
+               escreva ("você não foi aprovado para ganhar o aumento")
+
+            } 
+    }
+}

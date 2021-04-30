@@ -1,0 +1,31 @@
+ 
+ 
+ calculo da idade{
+ 
+            Númerico idade
+            Númerico  meses
+            Númerico  dias
+            Númerico  horas
+            Númerico  minutos
+
+            funçao inicio () {
+                escreva ("Qual é a sua idade?")
+                leia (idade) 
+
+                
+            meses = idade * 12;
+            escreva ("Sua Idade em meses é: " + meses + " meses\n")
+
+            dias = idade * 365;
+            escreva ("Sua Idade em dias é: " + dias + " dias\n")
+
+            horas = dias * 24;
+            escreva ("Sua Idade em horas é: " + horas + " horas\n")
+
+            minutos = horas * 60;
+            escreva ("Sua Idade em minutos é: " + minutos + " minutos\n")
+
+            }
+
+ }
+ 

@@ -1,0 +1,16 @@
+C:\Users\User1\Desktop\Backend entregas\Entrega2\bin\Debug\net5.0\Entrega2.exe
+C:\Users\User1\Desktop\Backend entregas\Entrega2\bin\Debug\net5.0\Entrega2.deps.json
+C:\Users\User1\Desktop\Backend entregas\Entrega2\bin\Debug\net5.0\Entrega2.runtimeconfig.json
+C:\Users\User1\Desktop\Backend entregas\Entrega2\bin\Debug\net5.0\Entrega2.runtimeconfig.dev.json
+C:\Users\User1\Desktop\Backend entregas\Entrega2\bin\Debug\net5.0\Entrega2.dll
+C:\Users\User1\Desktop\Backend entregas\Entrega2\bin\Debug\net5.0\ref\Entrega2.dll
+C:\Users\User1\Desktop\Backend entregas\Entrega2\bin\Debug\net5.0\Entrega2.pdb
+C:\Users\User1\Desktop\Backend entregas\Entrega2\obj\Debug\net5.0\Entrega2.csprojAssemblyReference.cache
+C:\Users\User1\Desktop\Backend entregas\Entrega2\obj\Debug\net5.0\Entrega2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\Backend entregas\Entrega2\obj\Debug\net5.0\Entrega2.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\Backend entregas\Entrega2\obj\Debug\net5.0\Entrega2.AssemblyInfo.cs
+C:\Users\User1\Desktop\Backend entregas\Entrega2\obj\Debug\net5.0\Entrega2.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\Backend entregas\Entrega2\obj\Debug\net5.0\Entrega2.dll
+C:\Users\User1\Desktop\Backend entregas\Entrega2\obj\Debug\net5.0\ref\Entrega2.dll
+C:\Users\User1\Desktop\Backend entregas\Entrega2\obj\Debug\net5.0\Entrega2.pdb
+C:\Users\User1\Desktop\Backend entregas\Entrega2\obj\Debug\net5.0\Entrega2.genruntimeconfig.cache

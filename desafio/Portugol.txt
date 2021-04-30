@@ -1,0 +1,39 @@
+Categoria nadador{
+    númerico idade
+
+    função inicio{
+         escreva ("Qual é a sua idade?")
+         leia (idade)
+
+         se  (idade >= 5 e idade <= 7)
+            {
+               escreva ("Você está na categoria Infantil A")
+            }
+         senão{
+                 se (idade >= 8 e idade <= 10)
+                {
+                 escreva ("Você entrou na categoria Infantil B"); }
+                
+         senão{
+                 se (idade >= 11 e idade <= 13)
+                  {
+                  escreva ("Você entrou na categoria juvenil A"); } 
+            
+         senão {
+                  se (idade >= 14 e idade <= 17)
+              {
+                escreva ("Você entrou na categoria juvenil B"); }
+        senão
+               {
+                   se (idade >= 18 )
+              {
+                  escreva("Você entrou na categoria Senior"); }
+               }
+
+               }
+               
+             }
+    
+            } 
+    }
+}

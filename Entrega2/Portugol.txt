@@ -1,0 +1,28 @@
+           
+    calculo idade {
+             
+            númerico anoatual
+            númerico nascimento
+            númerico idade
+            númerico semanas
+
+            escreva ("Qual é o ano atual?")
+            leia (anoatual)
+
+            escreva ("Qual é o ano do seu nascimento?")
+            leia (nascimento)
+
+            funçao inicio () {
+            
+            idade  = anoatual - nascimento;
+            escreva ("você tem : " + idade+ " anos")
+
+            semanas = idade * 52
+            escreva("sua idade em semanas é de: " + semanas+ " semanas ")
+
+            }
+     
+      }       
+           
+           
+          
